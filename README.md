@@ -10,7 +10,7 @@ The original readme file is [here](./readme.txt).
 
 Firstly you need to install [java8](https://www.java.com/en/download/) on your computer.
 
-Then left-clink Shimeji-ee.jar twice you'll start the nanami mascot. 
+Then left-click Shimeji-ee.jar twice you'll start the nanami mascot. 
 
 ## Image Generation
 
